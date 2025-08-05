@@ -27,5 +27,5 @@ I'm a Master's student in Computer and Information Technology (MCIT) at the Univ
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cheweihsieh/)
-- [Web-based messaging app](https://demo-chatapp.duckdns.org) (currently under maintenence and fixes)
+- [Web-based messaging app](https://demo-chatapp.duckdns.org) (currently down for maintenence and fixes)
 
