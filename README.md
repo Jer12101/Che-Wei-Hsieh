@@ -5,7 +5,7 @@ I'm a Master's student in Computer and Information Technology (MCIT) at the Univ
 ## 🔬 Recent Projects
 
 ### 🧠 Neuromorphic Simulation (Research @ NTU)
-> Simulated a custom transistor array for MNIST pattern recognition using TensorFlow. Explored biologically-inspired update rules and hardware-constrained learning dynamics. (*Code unavailable as the thesis is still under embargo*)
+> Simulated a custom transistor array for MNIST pattern recognition using TensorFlow. Explored Manhattan-esque update rules and hardware-constrained learning dynamics. (*Code unavailable as the thesis is still under embargo*)
 
 ### 💬 Full-Stack Messaging App
 > A web-based messaging platform built during my internship to learn modern frameworks: React, NestJS, MySQL, RabbitMQ. Features real-time message handling and user role management. The code repository related to the project are "react_frontend_to_nest_rest_API" and "webapp_practice" 
